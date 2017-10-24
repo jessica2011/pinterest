@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding:  0;
+    font-family: 'Source Sans Pro',sans-serif
+    
+}
+
+section {
+    position: relative;
+    width: 90%;
+    margin: 0 auto; 
+}
+  
+
+.caja {
+    float: left;;
+    width: 23.5%; 
+    margin: 8px;
+}
+
+img {  
+    width: 100%;
+    border-radius: 20px;
+    margin-bottom: 20px; 
+}
+
+.nota {
+    font-size: 14px;
+    margin-bottom: 25px;
+    line-height: 1.5;   
+}
+
+.nota ul {
+    margin-right: 50px;
+}
+
+.nota ul li {
+    list-style: none;
+    padding: 2px;
+    float: right;
+    color: rgb(172, 172, 172);
+    font-size: 9px;
+}
+
+.nota ul li span {
+    color: rgb(172, 172, 172);
+}
+
+h3 {
+    padding-bottom: 5px;
+}
+
+.nota div {
+    float: left;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    line-height: 30px;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    background: #ce84a1;    
+}
+
+
+.nota  .autor{
+    display: inline-block;
+    padding: 4px;
+}

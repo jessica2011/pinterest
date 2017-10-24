@@ -18,9 +18,12 @@ a {
     padding: 20px;
     margin: 8px;
     text-decoration: none;
-    
+  
+}
 
-    
+.A {
+
+    background-image: url(https://laboratoria.github.io/pinterestify/img/3.jpg);
 }
 
 

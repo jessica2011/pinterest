@@ -4,33 +4,114 @@
     font-family: 'Source Sans Pro',sans-serif
     
 }
-nav {
-    
-    outline: 1px solid yellow;
-    width: 77%;
-    margin: 30px auto;
-    
+
+header {
+    position: absolute;
+    width: 90%;
+    left: 5%;
+    height: 172px;
 }
 
-a {
-    outline: 1px solid red;
-    border-radius: 20%;
-    padding: 20px;
-    margin: 8px;
-    text-decoration: none;
+p {
+    display: inline-block;
+}
+
+div {
+    display: inline-block;
+    margin: 17px;
+}
+ 
+input {
+    width: 900px;
+    padding: 10px;
+    border-radius: 15px;
+    background: rgb(213, 201, 201);
   
 }
 
-.A {
-
-    background-image: url(https://laboratoria.github.io/pinterestify/img/3.jpg);
+[class^="icon-"], [class*="icon-"] {
+    color: #b5b5b5;
+    
+    font-size: 20px;
 }
+
+ btn {
+    font-size: 15px;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+
+.box-button {  
+    position: relative;
+    top:100px;
+    width: 75%;
+    margin: 0 14%;   
+}
+
+.button {
+    border: none;
+    border-radius: 5%;
+    color: white;
+    font-size: 15px;
+    font-weight:bold;
+    margin: 8px;
+    padding: 20px;
+    text-decoration: none; 
+}
+
+.cheat {
+    background-color:  rgba(115,95,78, 0.5);
+     background-image: url(https://laboratoria.github.io/pinterestify/img/1.jpg);  
+}
+
+.tutoria {
+    background-color: rgba(171, 139, 111, .8); 
+    background-image: url(https://laboratoria.github.io/pinterestify/img/3.jpg);  
+}
+
+.code {
+    background-color: rgba(136, 104, 76, .8);
+    background-image: url(https://laboratoria.github.io/pinterestify/img/3.jpg);  
+}
+
+.fun {
+    background-color: rgba(136, 104, 76, .8);
+    background-image: url(https://laboratoria.github.io/pinterestify/img/4.jpg);  
+}
+
+.programming {
+    background-color: rgba(148, 145, 75, .8);
+    background-image: url(https://laboratoria.github.io/pinterestify/img/5.jpg);  
+}
+
+.projects {
+    background-color: rgba(146, 128, 118, .8);
+    background-image: url(https://laboratoria.github.io/pinterestify/img/6.jpg);  
+}
+
+.post {
+    background-color: rgba(138, 119, 99, .8);
+    background-image: url(https://laboratoria.github.io/pinterestify/img/7.jpg);  
+}
+
+.medium {
+    background-color: rgba(146, 128, 118, .8);
+    background-image: url(https://laboratoria.github.io/pinterestify/img/8.jpg);  
+}
+
+.videos {
+    background-color: rgba(177, 126, 118, .8);
+    background-image: url(https://laboratoria.github.io/pinterestify/img/9.jpg);  
+}
+
+
 
 
 section {
     position: relative;
     width: 90%;
-    margin: 100px auto; 
+    margin: 110px auto; 
 }
   
 
@@ -89,3 +170,36 @@ h3 {
     padding: 4px;
    
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+

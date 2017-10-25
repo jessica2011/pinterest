@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?fpg54d');
-  src:  url('fonts/icomoon.eot?fpg54d#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?fpg54d') format('truetype'),
-    url('fonts/icomoon.woff?fpg54d') format('woff'),
-    url('fonts/icomoon.svg?fpg54d#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?4mp8iu');
+  src:  url('fonts/icomoon.eot?4mp8iu#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?4mp8iu') format('truetype'),
+    url('fonts/icomoon.woff?4mp8iu') format('woff'),
+    url('fonts/icomoon.svg?4mp8iu#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -84,6 +84,6 @@
 .icon-paragraph-justify:before {
   content: "\ea7a";
 }
-.icon-pinterest2:before {
-  content: "\ead2";
+.icon-pinterest:before {
+  content: "\ead1";
 }
